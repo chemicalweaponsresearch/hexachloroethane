@@ -1,30 +1,30 @@
 id,subset,date,observed,recovered,detonated,general_location,location
-1,July2020,7/16/2020,0,1,0,downtown,madison closer to 3rd than 4th
-2,July2020,7/16/2020,0,1,1,downtown,3rd btwn madison and jefferson
-3,July2020,7/16/2020,1,0,0,downtown,wyatt
-4,July2020,7/16/2020,1,0,1,downtown,wyatt and down 3rd towards main
-5,July2020,7/17/2020,1,1,0,downtown,3rd btwn madison and jefferson
-6,July2020,7/17/2020,1,1,1,downtown,3rd btwn madison and jefferson
-7,July2020,7/17/2020,1,1,1,downtown,3rd btwn madison and jefferson
-8,July2020,7/19/2020,0,1,0,downtown,near side of the parks
-9,July2020,7/19/2020,0,1,1,downtown,unknown
-10,July2020,7/20/2020,0,1,1,downtown,main and 3rd
-11,July2020,7/20/2020,0,1,1,downtown,lownsdale
-12,July2020,7/21/2020,0,1,1,downtown,salmon and 3rd
-13,July2020,7/23/2020,1,0,1,downtown,4th near salmon
-14,July2020,7/25/2020,0,1,0,downtown,around courthouse (fence was torn down)
-15,July2020,7/25/2020,0,1,1,downtown,around courthouse (fence was torn down)
-16,July2020,7/25/2020,0,1,1,downtown,around courthouse (fence was torn down)
-17,July2020,7/28/2020,1,1,1,downtown,2nd and salmon
-18,July2020,7/28/2020,1,1,1,downtown,salmon between 3rd and 4th
-19,July2020,7/28/2020,1,1,1,downtown,salmon between 3rd and 4th
-20,July2020,7/28/2020,1,1,1,downtown,salmon and 3rd
-21,July2020,7/28/2020,1,0,1,downtown,salmon and 3rd
-22,July2020,7/29/2020,1,1,1,downtown,3rd between salmon and main
-23,July2020,7/29/2020,0,1,1,downtown,4th and main
-24,July2020,7/29/2020,0,1,1,downtown,unknown
-25,July2020,7/29/2020,0,1,1,downtown,unknown
-26,July2020,7/29/2020,1,0,1,downtown,main between 4th and 5th
-27,October2021,10/28/2020,1,0,1,south waterfront,sw bancroft and moody
-28,March2021,3/11/2021,1,1,1,downtown,4th between main and salmon
-29,March2021,3/11/2021,1,1,1,downtown,salmon at 5th
+1,dt_july_2020,7/16/2020,0,1,0,downtown,madison closer to 3rd than 4th
+2,dt_july_2020,7/16/2020,0,1,1,downtown,3rd btwn madison and jefferson
+3,dt_july_2020,7/16/2020,1,0,0,downtown,wyatt
+4,dt_july_2020,7/16/2020,1,0,1,downtown,wyatt and down 3rd towards main
+5,dt_july_2020,7/17/2020,1,1,0,downtown,3rd btwn madison and jefferson
+6,dt_july_2020,7/17/2020,1,1,1,downtown,3rd btwn madison and jefferson
+7,dt_july_2020,7/17/2020,1,1,1,downtown,3rd btwn madison and jefferson
+8,dt_july_2020,7/19/2020,0,1,0,downtown,near side of the parks
+9,dt_july_2020,7/19/2020,0,1,1,downtown,unknown
+10,dt_july_2020,7/20/2020,0,1,1,downtown,main and 3rd
+11,dt_july_2020,7/20/2020,0,1,1,downtown,lownsdale
+12,dt_july_2020,7/21/2020,0,1,1,downtown,salmon and 3rd
+13,dt_july_2020,7/23/2020,1,0,1,downtown,4th near salmon
+14,dt_july_2020,7/25/2020,0,1,0,downtown,around courthouse (fence was torn down)
+15,dt_july_2020,7/25/2020,0,1,1,downtown,around courthouse (fence was torn down)
+16,dt_july_2020,7/25/2020,0,1,1,downtown,around courthouse (fence was torn down)
+17,dt_july_2020,7/28/2020,1,1,1,downtown,2nd and salmon
+18,dt_july_2020,7/28/2020,1,1,1,downtown,salmon between 3rd and 4th
+19,dt_july_2020,7/28/2020,1,1,1,downtown,salmon between 3rd and 4th
+20,dt_july_2020,7/28/2020,1,1,1,downtown,salmon and 3rd
+21,dt_july_2020,7/28/2020,1,0,1,downtown,salmon and 3rd
+22,dt_july_2020,7/29/2020,1,1,1,downtown,3rd between salmon and main
+23,dt_july_2020,7/29/2020,0,1,1,downtown,4th and main
+24,dt_july_2020,7/29/2020,0,1,1,downtown,unknown
+25,dt_july_2020,7/29/2020,0,1,1,downtown,unknown
+26,dt_july_2020,7/29/2020,1,0,1,downtown,main between 4th and 5th
+27,swf_oct_2020,10/28/2020,1,0,1,south waterfront,sw bancroft and moody
+28,dt_mar_2021,3/11/2021,1,1,1,downtown,4th between main and salmon
+29,dt_mar_2021,3/11/2021,1,1,1,downtown,salmon at 5th
